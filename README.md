@@ -13,12 +13,12 @@ pip install -r requirements.txt
 
 Start the app:
 ```bash
-streamlit run multimodal_app.py
+streamlit run app.py
 ```
 
 ### Prerquisites
 
-- [Ollama](https://ollama.ai) installed with `llava` and/or `backllava`.
+- [Ollama](https://ollama.ai) should be installed with [`llava`](https://ollama.com/library/llava) and/or [`backllava`](https://ollama.com/library/bakllava).
 
 
 <!-- ### Example
