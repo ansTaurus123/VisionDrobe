@@ -19,7 +19,7 @@ def convert_to_base64(image_file_path):
     return img_str
 
 
-def plt_img_base64(img_base64):
+def convert_to_html(img_base64):
     """
     Disply base64 encoded string as image
 
