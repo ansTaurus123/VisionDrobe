@@ -5,8 +5,8 @@ from utils import convert_to_base64, convert_to_html
 
 st.set_page_config(layout="wide")
 
-st.title("Chat with images locally")
-st.subheader("Ollama + LangChain")
+st.title("VISION_DROBE")
+st.subheader("An Esse Associated Product")
 
 
 def upload_image():
